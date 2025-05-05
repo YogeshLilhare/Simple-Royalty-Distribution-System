@@ -18,6 +18,7 @@ To eliminate disputes and ensure fair, transparent, and automated royalty distri
 ## 📜 Contract Details
 
 ### Contract Address: CDYHRGGDDNSP4LDOJ67SDBQS6MSOAHEXBBSFA33PUSXXCQPZ3UPJH4ZD
+C:\Users\yoges\OneDrive\Pictures\Screenshots\Screenshot 2025-05-05 121521.png
 
 ### `set_royalties(env, content_id, stakeholders)`
 Registers stakeholders and their revenue shares (must total 100%).
